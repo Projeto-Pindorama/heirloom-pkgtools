@@ -1,0 +1,11 @@
+SPDX-License-Identifier: Caldera
+SPDX-License-Identifier: CDDL-1.0+
+This is dual licensed for some freaking reason between CDDL and Caldera.
+As CDDL gives you the choice to relicense it, since it's relicensed into an
+open source license, please relicense CDDL'd parts into Caldera-- just in 
+case of you forking it or trying to use it somewhere else. 
+
+Copyright(C) AT&T 1984, 1986, 1987, 1988, 1989;
+Copyright(C) Caldera International Inc. 2001-2002;
+Copyright(C) Sun Microsystems Inc. 2003;
+All rights reserved.
